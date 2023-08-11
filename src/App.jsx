@@ -6,18 +6,9 @@ import MemeData from './assets/memesData';
 
 function App() {
 
-//   let memes = MemeData.map( items => {
-//     return <Form 
-//       key = {items.data.memes.id}
-//       {...items}
-//     />
-//   }
-// )
-
   return (
     <div>
       <Header />
-      {/* {memes} */}
       <Form />
     </div>
   )

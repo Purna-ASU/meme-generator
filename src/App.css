@@ -62,3 +62,7 @@ nav {
   border: none;
   cursor: pointer;
 }
+
+.meme--image {
+  max-width: 100%;
+}
