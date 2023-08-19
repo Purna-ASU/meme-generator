@@ -8,4 +8,4 @@ Currently, two official plugins are available:
 - [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
 
 # Snapshot of the output
-![Screenshot] (/Users/purnavenkatesh/Desktop/meme-generator/src/assets/Screenshot.png)
+![Screenshot] (public/Screenshot.png)
